@@ -2,7 +2,9 @@
 
 A basic bot created for the tutors and instructors of the Introductory Programming course.
 
-Related paper: https://arxiv.org/abs/2407.19266
+Related papers:
+  - https://arxiv.org/abs/2407.19266
+  - https://ieeexplore.ieee.org/document/10734012
 
 ## Available Commands
 
